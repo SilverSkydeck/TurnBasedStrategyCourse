@@ -1,0 +1,4 @@
+repository "TurnBasedStrategyCourse@Fortress@cloud"
+  path "/"
+    br "/main"
+    co "/main"
